@@ -179,6 +179,7 @@ input, select, textarea {
 	p {
 		text-align: justify;
 		margin: 0 0 2rem 0;
+		font-size: 0.9rem;
 	}
 
 	p.course{
