@@ -179,15 +179,16 @@ input, select, textarea {
 	p {
 		text-align: justify;
 		margin: 0 0 2rem 0;
-		font-size: 0.9rem;
+		font-size: 0.85rem;
 	}
 
 	p.course{
 		margin: 0;
+		font-size: 0.9rem;
 	}
 
 	p.school{
-		font-size: 0.8rem;
+		font-size: 0.75rem;
 		margin: 0 0 0.5rem 0;
 	}
 
@@ -2610,7 +2611,7 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			max-width: 35%;
 		}
 
 			.image.left img, .image.right img {
@@ -2869,7 +2870,7 @@ input, select, textarea {
 		margin: 0;
 	}
 
-	ul.small li{
+	ul li{
 		font-size: 0.8rem;
 	}
 
