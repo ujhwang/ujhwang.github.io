@@ -176,6 +176,10 @@ input, select, textarea {
 		font-style: italic;
 	}
 
+	smaller {
+		font-size: 0.75rem;
+	}
+
 	p {
 		text-align: justify;
 		margin: 0 0 2rem 0;
