@@ -194,6 +194,21 @@ input, select, textarea {
 
 	p.school{
 		font-size: 0.75rem;
+		margin: -0.3rem 0 0.5rem 0;
+	}
+
+	p.jobTitle{
+		margin: 0;
+		font-size: 0.9rem;
+	}
+
+	p.team{
+		font-size: 0.7rem;
+		margin: -0.2rem 0 -0.2rem 0;
+	}
+
+	p.job{
+		font-size: 0.75rem;
 		margin: 0 0 0.5rem 0;
 	}
 
