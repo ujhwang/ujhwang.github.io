@@ -194,7 +194,13 @@ input, select, textarea {
 
 	p.school{
 		font-size: 0.75rem;
-		margin: -0.3rem 0 0.5rem 0;
+		margin: -0.2rem 0 0 0;
+	}
+
+	p.period{
+		font-size: 0.7rem;
+		margin: -0.2rem 0 0.5rem 0;
+		color: #808080;
 	}
 
 	p.jobTitle{
@@ -204,12 +210,12 @@ input, select, textarea {
 
 	p.team{
 		font-size: 0.7rem;
-		margin: -0.2rem 0 -0.2rem 0;
+		margin: -0.2rem 0 0 0;
 	}
 
 	p.job{
 		font-size: 0.75rem;
-		margin: 0 0 0.5rem 0;
+		margin: -0.2rem 0 0 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
